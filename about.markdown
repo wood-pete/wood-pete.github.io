@@ -15,4 +15,4 @@ Beyond the technical facets, I spotlight the heart of healthcare: care and empat
 
 `This blog is a community of experts, enthusiasts, and visionaries navigating the evolving landscape where technology meets healthcare. It's more than sharing information; it's a collaborative space where diverse perspectives converge to shape a future where innovation and empathy go hand in hand.`
 
-Join me on this enriching journey through each post, where insights blend to showcase the dynamic synergy of technology and care. Explore, discuss, and evolve with me as we redefine the narrative of health technology, celebrating not just the advancements but also their positive impact on individuals and communities.
+### Join me on this enriching journey through each post, where insights blend to showcase the dynamic synergy of technology and care. Explore, discuss, and evolve with me as we redefine the narrative of health technology, celebrating not just the advancements but also their positive impact on individuals and communities.
