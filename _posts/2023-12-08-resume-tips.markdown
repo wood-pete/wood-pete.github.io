@@ -3,10 +3,11 @@ layout: post
 title:  "My Top 10 Tips to Improve a Resume"
 date:    2023-12-08 11:47:03 +0000
 categories: mentor 
+excerpt_separator: <!--more-->
 ---
 
 ## Looking to kickstart your career with a bang? Crafting a stellar resume is your ticket to standing out in a crowded job market. In this guide, I'll walk you through a list of game-changing tips tailored for those stepping into their first professional role. Learn how to spotlight your unique strengths, ace those differentiators, weave in your soft and hard skills, and ultimately, leave a lasting impression on potential employers. 
-
+<!--more-->
 ---
 I've practically become a CV connoisseur after sifting through a mountain of them! I've played matchmaker in the job world, pairing the right folks with the wrong gigs and, oops, the wrong ones with the right roles too. I've seen it all – the "perfect on paper" matches that fizzled and the surprising successes that came out of left field. Trust me, I've had my fair share of "Whoops, that wasn't quite the plan!" moments, but hey, that's how you learn, right? So, let's just say I've got a knack for spotting the right talent in unexpected places.
 
