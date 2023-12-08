@@ -21,9 +21,9 @@
 title: petewood.net
 email: pete@petewood.net
 description: >- # this means to ignore newlines until "baseurl:"
-  "A dynamic convergence of healthcare leadership, data-driven technology, and insightful discourse. It's a platform where innovation meets expertise, offering a rich tapestry of insights and perspectives."
+  A dynamic convergence of healthcare leadership, data-driven technology, and insightful discourse. It's a platform where innovation meets expertise, offering a rich tapestry of insights and perspectives.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://petewood.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 excerpt_separator: <!--more-->
