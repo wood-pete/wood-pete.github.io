@@ -13,6 +13,8 @@ I've practically become a CV connoisseur after sifting through a mountain of the
 
 Let's transform your resume into a powerful tool that opens doors to your dream job.
 
+{{ site.google_analytics }}
+
 ## 1. **Visual Appeal** 
 Enhance the visual appeal of your CV to leave a lasting impression. Consider utilizing online tools like [resume.io] or other templates to improve layout and aesthetics. Incorporate a photo for a personalized touch.
 
