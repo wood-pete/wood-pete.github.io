@@ -255,8 +255,8 @@
 .post-content {
   margin-bottom: $spacing-unit;
   a:link, a:visited, a:active  {
-    color: black;
-    background-color: rgb(48, 171, 252);
+    background-color: whitesmoke;
+    color:  rgb(37, 102, 159);
     border-radius: 25px;
     padding: 2px;
     padding-left: 7px;
@@ -266,8 +266,8 @@
   }
 
   a:hover {
-    color: rgb(48, 171, 252);
-    background-color: black;
+    color: whitesmoke;
+    background-color:  rgb(37, 102, 159);
   }
   
 
