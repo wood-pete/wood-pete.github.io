@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Welcome to my vibrant blog, where technology and healthcare intersect, creating a space for insightful discussions on innovation and compassion. Here, I delve deep into the world of health technology, offering diverse perspectives on artificial intelligence, machine learning, and advanced analytics.
+## Welcome to my vibrant blog, where technology and healthcare intersect, creating a space for insightful discussions on innovation and compassion. Here, I delve deep into the world of health technology, offering diverse perspectives on quantum computing, artificial intelligence, machine learning, and advanced analytics.
 ---
 
 Within these digital pages, I explore the crucial aspects of hyper-openness and interoperability, unraveling the transformative potential of data platforms and their integration within healthcare ecosystems.
